@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">insert email</string>
+    <string name="password">insert password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="welcome">welcome</string>
+    <string name="complimenti">Complimenti, ora puoi effettuare il login</string>
+    <string name="emaile">email errata!</string>
+    <string name="passworde">password errata!</string>
+    <string name="passworde1">Le password non coincidono!</string>
+    <string name="congratulation">Congratulazioni!!</string>
+</resources>
